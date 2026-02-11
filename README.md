@@ -12,10 +12,10 @@ In addition to my technical skills, I am a strong communicator and collaborator 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: A-day-bah-yor(Adebayo) mu-zar-de-mo-sis(muzardemoses)
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently learning 
+- 😊 I’m looking for 
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Senior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/e/2PACX-1vToftOe9ucm2AOgN89Hn6q5yjEdmzTUmrvossgEn2oD0yTJ2g8uk2Ecj5nIntY0uFwiZoXh1A4w4D9e/pub) and contact me by emailing muzardemoses@gmail.com.
 
 ---

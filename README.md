@@ -1,24 +1,42 @@
-# Hello there; welcome 👋🏾
-- 👋 Hi, I’m @muzardemoses  <svg width="100" height="100" viewBox="0 0 100 100" fill="#fff" xmlns="http://www.w3.org/2000/svg">
-  <path d="M20 20L80 80L80 20L20 80Z" stroke="#0066ff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" rx="10" ry="10"/>
-</svg>
+# 👋🏾 Hey, I'm Moses Adebayo
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAACHCAYAAAA850oKAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAcmSURBVHgB7d3/kZtGFAfwbzL5P0oF2VRwlwq8qcBKBUcqsFyBSAW5VGBcgS8ViFRwdgW3qeDcgaM3wBy3egu7sBLY9/3MMD6h5QnBg/0ByAARERERERERERERERERERERERERERERERERERERERERERERERFdwHc4DxtR5uNx+hxRbnOcriOWjS1HC7LH6UvEVETGK5RlzYxyFOl75Fco894r816BVu0cyaHt9Fucnt63aKoCWqncyWFxeir/F03d/483X2sj0IrkTo5CmVd5//bdgFYrd3JoVUrd/qv1HFi1rNgPyEeqCOPNkyrFtX9LYkjV0j9bdFVLjWlk+V3795Xy/g5PCVn11oUuTBqdY91Vq5R5NxK3QLiLahDXbf6CuLEX6slZrQxVKR1WLV+RXMlhoI9OOm9eV7X0sdeyUrmSY6vMex8oWynzpvZaHJpLAH+gScb6OP19nH5p5/enGrSIA+KHruVM8eiVfUS4aikiY/ttnj1ocQanO+9+ZJkK8Q3GAtOvrbAtM0OOasUq896PLFMp86ZWLUOYHDPkGOfQdqqc0t8gjbRb3oKX2FdjbnIY6GeODdKP2rkDYpTZ3GrFIq8taDXmJkfudsI52h000ZxqRaoB681zx+k3xJPu52slZg1a3Jzk0KqAGmkXt/zk6OLWuIyXOHTvcIHte4f5F7dCA2J9BaaPc4xVUw7xF+6+lekdIs1pc7zyXjukZ2ToWotFOq0LXB2nh3bi9ZtEU5NDOx3XmKYKxE9VQ08Q004cEEs0Jzl8Y6OiIdpl/BukkxhvQdlMTQ6/Eekw/cyRs2qpjtPv4B1fWUx94s0o8xym00ZUP7eT9p5DeswuXp/By6NtByIiIiIiIqJvwbl+2ecaT9cyZKxB+tUO/KWdr0rO5LBo7huVf4euY9RohtorXNbBe73EOixBrsKa3mt5frnEhWzaFUi9dPyAy45Q+p9f4mVwWOCSvZDEkGdUCqQz7bK8lL5Sc+8+lzu5jDJf2hWf0LQx0Ja5UspKcn04Tr+CbZFvioFeXUjChNocZWCZEufHaiWxWpmjxLQNXkBvf5wbkyMxOeZUK0aZd4dxFZqbeawXSyY3suw1nveGpCrqnq6fy7bxN72YqVVd92BWF0c4pN947ce0eN42+wj9Jy5WowIm32C8Q7PB+pMZKG+hP8nfP/OMPX4ZOnN07R4t5h5xNm3Zx4F1lPVPaXwbNNt4LKYZieOwQLWyg76yue/V3CNP9ziUHB8w727t6/ZzY9dxj3FbDCdFSkyX+H2ysAjvoAJ5uqh7xG+g/udrCaolRxEZcxdYP4O0ndhNfyFsOyHeUII4LJAc4oDhFZYNJ0embFyLNEUgZo1mx5bt31qZgxJPS477NkbRTjLvIfA9/ITbDJSteuv4gPiEMwMxb9t4twMxrRLTYaHkMEg/ciRZiojY2gYolXI7xG0o//0qEM8EPtu/434P/axllJgl4hKuUsrdQz8Tlog7KBwWSg5hkFbnjm1IUSjlh75UqZS/9cpoSRqiJVzplXlI+D7A+E9xbpC2jcQB4weFw4LJ0ZENOiVJbpRYd0q5oTZM1/10van2yqQkm8FwctjEeN06Pg4so7U1ipGYFuMHhcMKkqNj0SSK7ODYKsd6Me5xegTNNbSzU8trZ5aYBvgB4e9VKjFNREznLXM38n50cpzjv9So0WSvHAk/obluIj8FKZfIXWCZvffa39D/YV20NsBHjPvkvTaBv8VnxA1y+Z97hUzOkRw+WfkKzSlSfh/0T6WMxcu4Opsy4hpbNnUUN9rU4XOD0/qwRtwwdonmyPNHNC3CR9+PWBdth2wwvqOuI+L048X4OSFmkqnJ0Q0X+/NqxJFyb5TlO1KN9L+0wbpoO0B2fI1h/o7sVzNyYNz0XnfXVGoMO1sVPLVaCT0Zn2vo3G9UdRsqRGvp1zifO2XefmQZC/334bW/O68xrMDpNr/DCkij098hHyKWC40s2l4ZC73Pv0mIV3jlcvZWxAFx3fKhdfST5R7jPbmOCcQ0XjmHBbqyBnq3VFbYBpaR+feBZXyHQLnrifFyJ4eF/v33eL6DLPSdqO2kIiKmJNo2IaaLKHMWO+hfRiYZ4zi0KyNnlIeBslsl9jXC4ySPGB5DKZR4uZND3GL4+4fek21hAp97yBzTYaHkECXCKxwz7QZiFxPilYFY50gOUSFt/WQHj4323ifGfEA42RwWTA5RIH3oXMrbiNgmMrZs9O1AnHMlBxB/gNSI73ndZorpMDE5cj7UZPA0dB4apZMejnTfSqT3Jgo0O/8Vnt8mKPGkhV5huI9fea/vMNyyTy1v2nW0eP5Li9K1rNt4NdIYPN3ucOXF7NanHokhSdZvyNeIfJgrZ3L0dfdSbnD6OCQRERERERERERERERERERERERERERERERERERERERERERERERERERERncX/Z96oxRsCt/4AAAAASUVORK5CYII=&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Website Badge](https://img.shields.io/badge/-website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://mosesadebayo.me)](https://mysite.com) [![Linkedin Badge](https://img.shields.io/badge/-muzardemoses-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muzardemoses)](https://www.linkedin.com/in/muzardemoses) [![Twitter Badge](https://img.shields.io/badge/-@muzarde1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/muzarde1)](https://twitter.com/muzarde1)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&weight=600&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Lead+Software+Engineer;Full-Stack+Developer;Building+Scalable+Products" />
+</p>
 
-I am a Software Engineer with a passion for creating beautiful and user-friendly websites and applications. My passion has led me to explore the depths of Front-end development, enhancing my capabilities in building efficient, responsive, scalable, and highly maintainable applications.
-I have a solid understanding of HTML, CSS, and JavaScript and have experience working with popular front-end frameworks such as React and Vue.
-In addition to my technical skills, I am a strong communicator and collaborator and have experience working in teams to deliver successful projects... I create technical content (on my [Blog](https://blog.mosesadebayo.me/), [Newsletter](https://blog.mosesadebayo.me/newsletter), and [YouTube](https://www.youtube.com/@muzardemoses), build useful [open-source projects](https://github.com/muzardemoses), speak at some meetups/conferences, build technical communities...
+I build scalable, high-performance web applications and digital products used by real users and businesses.
 
-**Here's a quick summary about me**:
+With 50+ projects across SaaS, automation tools, and client systems, I specialize in turning ideas into production-ready applications — fast, clean, and maintainable.
 
-- 😊 Pronouns: A-day-bah-yor(Adebayo) mu-zar-de-mo-sis(muzardemoses)
-- 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning 
-- 😊 I’m looking for 
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Senior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/e/2PACX-1vToftOe9ucm2AOgN89Hn6q5yjEdmzTUmrvossgEn2oD0yTJ2g8uk2Ecj5nIntY0uFwiZoXh1A4w4D9e/pub) and contact me by emailing muzardemoses@gmail.com.
 
----
+### What I Do
+
+- ⚡ Build full-stack applications (React, Next.js, Node.js)
+- 🏗️ Design scalable system architectures
+- 🔌 Integrate APIs, payments, and automation workflows
+- 🎯 Optimize performance and user experience
+- 🤖 Implement AI-powered features into real products
+
+
+### Tech Stack
+
+Frontend
+React · Next.js · TypeScript · Tailwind · shadcn/ui  
+
+Backend
+Node.js · Express · PostgreSQL · Supabase · Firebase  
+
+Tools & Systems
+Docker · Cloudflare · Stripe · REST APIs · Webhooks  
+
+
+### Connect With Me
+
+- 🌐: [https://mosesadebayo.promdevs.com](https://mosesadebayo.promdevs.com/)  
+- 𝕏: https://twitter.com/muzarde1  
+- 💼: https://linkedin.com/in/muzardemoses  
+- 📧: moses@promdevs.com
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzardemoses&show_icons=true&include_all_commits=true&hide_border=true" alt="Muzardemoses's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzardemoses&langs_count=8&layout=compact&hide_border=true" alt="muzardemoses's GitHub stats" /> |
 | ------------- | ------------- |
@@ -50,8 +68,6 @@ In addition to my technical skills, I am a strong communicator and collaborator 
 
 
 
+### ⚡ Fun Fact
 
-<!---
-muzardemoses/muzardemoses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I don’t just write code — I ship product
